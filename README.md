@@ -33,8 +33,8 @@ Passionate about backend architecture, cloud systems, and transforming ideas int
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-msvr/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/alireza_msvr)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@alireza-msvr)
 
 ---
 
-> *"Code is craft. Building is learning. Shipping is growing."*  
 > **Open to internships, junior roles, and collaborative projects.**
