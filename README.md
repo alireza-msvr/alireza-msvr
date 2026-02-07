@@ -2,7 +2,7 @@
 
 **Aspiring Backend Engineer | Building Scalable Systems**
 
-📧 seyed5105@gmail.com | 🌐 alireza-msvr.ir
+🌐 alireza-msvr.ir
 
 Passionate about backend architecture, cloud systems, and transforming ideas into production-ready applications. Currently building my skills through hands-on projects and continuous learning.
 
@@ -32,6 +32,7 @@ Passionate about backend architecture, cloud systems, and transforming ideas int
 - Database Optimization
 
 ## 📫 Connect With Me
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-msvr/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/alireza_msvr)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@alireza-msvr)
