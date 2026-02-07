@@ -2,8 +2,6 @@
 
 **Aspiring Backend Engineer | Building Scalable Systems**
 
-🌐 alireza-msvr.ir
-
 Passionate about backend architecture, cloud systems, and transforming ideas into production-ready applications. Currently building my skills through hands-on projects and continuous learning.
 
 ## 🔧 Tech Stack
