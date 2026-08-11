@@ -4,7 +4,7 @@
 
 Passionate about backend architecture, cloud systems, and transforming ideas into production-ready applications. Currently building my skills through hands-on projects and continuous learning.
 
-## 🔧 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -27,13 +27,13 @@ Passionate about backend architecture, cloud systems, and transforming ideas int
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-## 📈 Currently Learning
+## Currently Learning
 - Cloud Architecture (AWS/Azure)
 - System Design Patterns
 - Test-Driven Development
 - Database Optimization
 
-## 📫 Connect With Me
+## Connect With Me
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seyed5105@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-msvr/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/alireza_msvr)
